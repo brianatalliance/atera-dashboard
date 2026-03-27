@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-03-27T20:35:19.792056Z",
+  "kpis": {
+    "totalAgents": 279,
+    "onlineAgents": 100,
+    "offlineAgents": 179,
+    "activeAlerts": 5,
+    "totalAlerts": 7257,
+    "openTickets": 3,
+    "pendingTickets": 7,
+    "totalTickets": 12678,
+    "totalCustomers": 5
+  },
+  "agentsByCustomer": {
+    "Capabilities INC": 35,
+    "Able2": 201,
+    "Alliance for Empowerment": 39,
+    "IT-LAB": 4
+  },
+  "agentsByOSType": {
+    "Work Station": 271,
+    "Server": 5,
+    "Domain Controller": 1,
+    "Linux": 2
+  },
+  "agentsByOS": {
+    "Microsoft Windows 11 Business  x64": 166,
+    "Microsoft Windows 10 Business  x64": 1,
+    "Microsoft Windows 11 Pro  x64": 93,
+    "Microsoft Windows 11 Home  x64": 9,
+    "Microsoft Windows Server 2019 Standard  x64": 6,
+    "Microsoft Windows 11 Enterprise  x64": 2,
+    "Linux-Debian GNU/Linux x64": 2
+  },
+  "onlineByCustomer": {
+    "Able2": {
+      "online": 81,
+      "offline": 120,
+      "total": 201
+    },
+    "IT-LAB": {
+      "online": 2,
+      "offline": 2,
+      "total": 4
+    },
+    "Alliance for Empowerment": {
+      "online": 15,
+      "offline": 24,
+      "total": 39
+    },
+    "Capabilities INC": {
+      "online": 2,
+      "offline": 33,
+      "total": 35
+    }
+  },
+  "alertsByCustomer": {
+    "Able2": 1,
+    "Alliance for Empowerment": 3,
+    "IT-LAB": 1
+  },
+  "alertsBySeverity": {
+    "Critical": 2,
+    "Information": 3
+  },
+  "alertsByCategory": {
+    "Availability": 2,
+    "General": 3
+  },
+  "ticketsByStatus": {
+    "Open": 3,
+    "Closed": 9293,
+    "Pending": 7,
+    "Deleted": 920,
+    "Merged": 413,
+    "Resolved": 2042
+  },
+  "ticketsByPriority": {
+    "Low": 9164,
+    "Critical": 3485,
+    "High": 7,
+    "Medium": 22
+  },
+  "ticketsBySource": {
+    "Email": 8771,
+    "Alert": 3487,
+    "Phone": 408,
+    "ScheduledTicket": 6,
+    "Chat": 3,
+    "Web": 3
+  },
+  "ticketsByType": {
+    "Incident": 9338,
+    "Problem": 3319,
+    "Request": 12,
+    "Change": 9
+  },
+  "ticketsByCustomer": {
+    "Able2": 10401,
+    "Capabilities INC": 678,
+    "Alliance for Empowerment": 1305,
+    "Unassigned": 294
+  }
+}

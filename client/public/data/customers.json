@@ -1,0 +1,62 @@
+[
+  {
+    "id": 11,
+    "name": "IT-LAB",
+    "domain": "",
+    "address": "1118 Charles Street, Elmira, NY, USA",
+    "city": "Elmira",
+    "state": "New York",
+    "phone": "6078579484",
+    "created": "2026-03-17T17:39:15Z",
+    "agentCount": 4,
+    "ticketCount": 0
+  },
+  {
+    "id": 10,
+    "name": "Unassigned",
+    "domain": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "phone": "",
+    "created": "2022-09-27T12:06:46Z",
+    "agentCount": 0,
+    "ticketCount": 294
+  },
+  {
+    "id": 9,
+    "name": "Alliance for Empowerment",
+    "domain": "Wearealliance.org;allianceforempowerment.org;admin.local",
+    "address": "1118 Charles Street, Elmira, NY, USA",
+    "city": "NY",
+    "state": "New York",
+    "phone": "6077347107",
+    "created": "2022-08-09T13:00:48Z",
+    "agentCount": 39,
+    "ticketCount": 1305
+  },
+  {
+    "id": 8,
+    "name": "Capabilities INC",
+    "domain": "capabilities.org",
+    "address": "1149 Sullivan St, Elmira, NY, USA",
+    "city": "NY",
+    "state": "New York",
+    "phone": "607-734-2006",
+    "created": "2022-06-14T14:29:58Z",
+    "agentCount": 35,
+    "ticketCount": 678
+  },
+  {
+    "id": 5,
+    "name": "Able2",
+    "domain": "Able-2.org;Admin.local",
+    "address": "1118 Charles Street, Elmira, NY, USA",
+    "city": "NY",
+    "state": "New York",
+    "phone": "6073335296",
+    "created": "2021-08-10T17:15:02Z",
+    "agentCount": 201,
+    "ticketCount": 10401
+  }
+]
