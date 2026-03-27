@@ -104,56 +104,56 @@ export interface TicketTrend {
 export function useSummary() {
   return useQuery<Summary>({
     queryKey: ["/data/summary"],
-    queryFn: () => fetchJSON<Summary>("/data/summary.json"),
+    queryFn: () => fetchJSON<Summary>("./data/summary.json"),
   });
 }
 
 export function useAgents() {
   return useQuery<Agent[]>({
     queryKey: ["/data/agents"],
-    queryFn: () => fetchJSON<Agent[]>("/data/agents.json"),
+    queryFn: () => fetchJSON<Agent[]>("./data/agents.json"),
   });
 }
 
 export function useActiveAlerts() {
   return useQuery<Alert[]>({
     queryKey: ["/data/active-alerts"],
-    queryFn: () => fetchJSON<Alert[]>("/data/active-alerts.json"),
+    queryFn: () => fetchJSON<Alert[]>("./data/active-alerts.json"),
   });
 }
 
 export function useRecentAlerts() {
   return useQuery<Alert[]>({
     queryKey: ["/data/recent-alerts"],
-    queryFn: () => fetchJSON<Alert[]>("/data/recent-alerts.json"),
+    queryFn: () => fetchJSON<Alert[]>("./data/recent-alerts.json"),
   });
 }
 
 export function useOpenTickets() {
   return useQuery<Ticket[]>({
     queryKey: ["/data/open-tickets"],
-    queryFn: () => fetchJSON<Ticket[]>("/data/open-tickets.json"),
+    queryFn: () => fetchJSON<Ticket[]>("./data/open-tickets.json"),
   });
 }
 
 export function useCustomers() {
   return useQuery<Customer[]>({
     queryKey: ["/data/customers"],
-    queryFn: () => fetchJSON<Customer[]>("/data/customers.json"),
+    queryFn: () => fetchJSON<Customer[]>("./data/customers.json"),
   });
 }
 
 export function useAlertTrend() {
   return useQuery<AlertTrend[]>({
     queryKey: ["/data/alert-trend"],
-    queryFn: () => fetchJSON<AlertTrend[]>("/data/alert-trend.json"),
+    queryFn: () => fetchJSON<AlertTrend[]>("./data/alert-trend.json"),
   });
 }
 
 export function useTicketTrend() {
   return useQuery<TicketTrend[]>({
     queryKey: ["/data/ticket-trend"],
-    queryFn: () => fetchJSON<TicketTrend[]>("/data/ticket-trend.json"),
+    queryFn: () => fetchJSON<TicketTrend[]>("./data/ticket-trend.json"),
   });
 }
 

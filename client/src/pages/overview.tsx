@@ -261,7 +261,7 @@ export default function OverviewPage() {
                 <BarChart data={agentsByCustomerData} layout="vertical" margin={{ left: 0, right: 16, top: 0, bottom: 0 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke={gridColor} horizontal={false} />
                   <XAxis type="number" tick={{ fontSize: 11, fill: textColor }} axisLine={false} tickLine={false} />
-                  <YAxis type="category" dataKey="name" width={130} tick={{ fontSize: 11, fill: textColor }} axisLine={false} tickLine={false} />
+                  <YAxis type="category" dataKey="name" width={170} tick={{ fontSize: 11, fill: textColor }} axisLine={false} tickLine={false} />
                   <Tooltip content={<ChartTooltipContent />} />
                   <Bar dataKey="count" name="Agents" fill={CHART_COLORS.cyan} radius={[0, 4, 4, 0]} maxBarSize={24} />
                 </BarChart>
@@ -282,7 +282,7 @@ export default function OverviewPage() {
                 <BarChart data={onlineOfflineData} layout="vertical" margin={{ left: 0, right: 16, top: 0, bottom: 0 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke={gridColor} horizontal={false} />
                   <XAxis type="number" tick={{ fontSize: 11, fill: textColor }} axisLine={false} tickLine={false} />
-                  <YAxis type="category" dataKey="name" width={130} tick={{ fontSize: 11, fill: textColor }} axisLine={false} tickLine={false} />
+                  <YAxis type="category" dataKey="name" width={170} tick={{ fontSize: 11, fill: textColor }} axisLine={false} tickLine={false} />
                   <Tooltip content={<ChartTooltipContent />} />
                   <Bar dataKey="online" name="Online" stackId="a" fill={CHART_COLORS.green} maxBarSize={24} />
                   <Bar dataKey="offline" name="Offline" stackId="a" fill="#6b7280" radius={[0, 4, 4, 0]} maxBarSize={24} />
