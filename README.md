@@ -149,10 +149,23 @@ atera-dashboard/
 └── tailwind.config.ts
 ```
 
-## License
+## Related Projects
 
-[MIT](LICENSE) — Alliance for Empowerment
+- [perplexity-windows-xpc](https://github.com/brianatalliance/perplexity-windows-xpc) — Perplexity AI for Windows — PowerShell, system tray, Office integration
+- [perplexity-xpc](https://github.com/brianatalliance/perplexity-xpc) — PerplexityXPC broker service, tray app, MCP server management
+- [perplexity-connector](https://github.com/brianatalliance/perplexity-connector) — Perplexity Sonar API connector — CLI, streaming, async, structured output
+- [atera-connector](https://github.com/brianatalliance/atera-connector) — Atera RMM API v3 connector — Python CLI with full CRUD support
+- [synology-connector](https://github.com/brianatalliance/synology-connector) — Synology DSM Web API connector — 40 CLI actions across 10 modules
+- [udm-nspawn-pki](https://github.com/brianatalliance/udm-nspawn-pki) — Two-tier PKI in systemd-nspawn on UniFi Dream Machine Pro
+- [wireguard-vpn-spk](https://github.com/brianatalliance/wireguard-vpn-spk) — WireGuard VPN Tunnel SPK for Synology DS220+ (userspace wireguard-go)
+- [nas-git-sync](https://github.com/brianatalliance/nas-git-sync) — Automated GitHub to Synology NAS repo sync script
 
 ## Author
 
-Brian Vicente — Network Coordinator, Alliance for Empowerment
+**Brian Vicente** — Network Coordinator & Cybersecurity Admin, [Alliance for Empowerment](https://www.allianceforempowerment.org)
+
+GitHub: [@brianatalliance](https://github.com/brianatalliance)
+
+## License
+
+[MIT](LICENSE) — Alliance for Empowerment
