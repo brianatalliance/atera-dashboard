@@ -4,7 +4,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABL2-OIR-TRAIN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-27T12:05:30Z",
     "archived": false
   },
@@ -13,7 +13,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "Abl2-UnifiOS",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-26T21:47:42Z",
     "archived": true
   },
@@ -22,7 +22,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE2-SYMANTEC",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-26T21:41:41Z",
     "archived": true
   },
@@ -31,7 +31,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE2-ALERTUS",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-26T21:34:43Z",
     "archived": true
   },
@@ -40,7 +40,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE-PRINTSERV2",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-26T21:27:48Z",
     "archived": true
   },
@@ -49,7 +49,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "AL-ACT-PAY",
-    "customer": "Alliance for Empowerment",
+    "customer": "Acme Corporation",
     "created": "2026-03-25T18:04:21Z",
     "archived": false
   },
@@ -58,7 +58,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "AL-ACT-PUR",
-    "customer": "Alliance for Empowerment",
+    "customer": "Acme Corporation",
     "created": "2026-03-25T14:32:16Z",
     "archived": false
   },
@@ -67,7 +67,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "AL-CHARLESRECEP",
-    "customer": "Alliance for Empowerment",
+    "customer": "Acme Corporation",
     "created": "2026-03-25T14:11:11Z",
     "archived": false
   },
@@ -75,8 +75,8 @@
     "alertId": 12577,
     "title": "Machine status unknown",
     "severity": "Critical",
-    "device": "AL-IT-LAB-ASUS1",
-    "customer": "IT-LAB",
+    "device": "AL-Northwind Traders-ASUS1",
+    "customer": "Northwind Traders",
     "created": "2026-03-24T22:09:40Z",
     "archived": false
   },
@@ -84,8 +84,8 @@
     "alertId": 12576,
     "title": "Machine status unknown",
     "severity": "Critical",
-    "device": "AL-IT-LAB-ASUS1",
-    "customer": "IT-LAB",
+    "device": "AL-Northwind Traders-ASUS1",
+    "customer": "Northwind Traders",
     "created": "2026-03-24T20:17:29Z",
     "archived": true
   },
@@ -93,8 +93,8 @@
     "alertId": 12575,
     "title": "Failed Login Attempts",
     "severity": "Information",
-    "device": "AL-IT-LAB-ASUS1",
-    "customer": "IT-LAB",
+    "device": "AL-Northwind Traders-ASUS1",
+    "customer": "Northwind Traders",
     "created": "2026-03-24T18:31:59Z",
     "archived": true
   },
@@ -103,7 +103,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "AL-IT-NETCOORD",
-    "customer": "Alliance for Empowerment",
+    "customer": "Acme Corporation",
     "created": "2026-03-23T13:13:22Z",
     "archived": true
   },
@@ -112,7 +112,7 @@
     "title": "Disk Usage(C:)",
     "severity": "Critical",
     "device": "ABL2-CED-MEDLAP",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-22T14:24:41Z",
     "archived": true
   },
@@ -121,7 +121,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Eastburn Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-21T07:19:18Z",
     "archived": true
   },
@@ -130,7 +130,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "ABL2-RA-KITCHEN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-20T18:12:08Z",
     "archived": true
   },
@@ -139,7 +139,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Rolling Acres Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-20T11:37:05Z",
     "archived": true
   },
@@ -148,7 +148,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "ABL2-RA-KITCHEN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T20:32:06Z",
     "archived": true
   },
@@ -157,7 +157,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "ABL2-RA-KITCHEN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T18:02:08Z",
     "archived": true
   },
@@ -166,7 +166,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "ABL2-RA-KITCHEN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T17:59:10Z",
     "archived": true
   },
@@ -175,7 +175,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "OIR Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T05:51:09Z",
     "archived": true
   },
@@ -183,8 +183,8 @@
     "alertId": 12560,
     "title": "Device down",
     "severity": "Critical",
-    "device": "Able2-DR",
-    "customer": "Able2",
+    "device": "Fabrikam Inc-DR",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T05:51:09Z",
     "archived": true
   },
@@ -193,7 +193,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE2-DNS",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T05:51:08Z",
     "archived": true
   },
@@ -202,7 +202,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE2-SYMANTEC",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T05:51:07Z",
     "archived": true
   },
@@ -211,7 +211,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE2-ALERTUS",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T05:51:01Z",
     "archived": true
   },
@@ -220,7 +220,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABL2-OIR-TRAIN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T05:50:57Z",
     "archived": true
   },
@@ -229,7 +229,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "Abl2-UnifiOS",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-19T05:50:46Z",
     "archived": true
   },
@@ -238,7 +238,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "ABL2-LT-INTCOOR",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-18T18:49:00Z",
     "archived": true
   },
@@ -247,7 +247,7 @@
     "title": "Disk Usage(C:)",
     "severity": "Critical",
     "device": "ABL2-CED-MEDLAP",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-17T13:36:18Z",
     "archived": true
   },
@@ -256,7 +256,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "2nd Street Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-16T20:44:07Z",
     "archived": true
   },
@@ -265,7 +265,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABL2-CH-TRAIN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-16T19:05:48Z",
     "archived": true
   },
@@ -273,8 +273,8 @@
     "alertId": 12549,
     "title": "Failed Login Attempts",
     "severity": "Information",
-    "device": "DESKTOP-D3P2DE3",
-    "customer": "Alliance for Empowerment",
+    "device": "DESKTOP-DEMO01",
+    "customer": "Acme Corporation",
     "created": "2026-03-16T16:20:54Z",
     "archived": true
   },
@@ -282,8 +282,8 @@
     "alertId": 12548,
     "title": "Failed Login Attempts",
     "severity": "Information",
-    "device": "DESKTOP-D3P2DE3",
-    "customer": "Alliance for Empowerment",
+    "device": "DESKTOP-DEMO01",
+    "customer": "Acme Corporation",
     "created": "2026-03-15T11:44:11Z",
     "archived": true
   },
@@ -292,7 +292,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "ABL2-SH-BASEM",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-15T03:35:31Z",
     "archived": true
   },
@@ -300,8 +300,8 @@
     "alertId": 12546,
     "title": "Failed Login Attempts",
     "severity": "Information",
-    "device": "DESKTOP-D3P2DE3",
-    "customer": "Alliance for Empowerment",
+    "device": "DESKTOP-DEMO01",
+    "customer": "Acme Corporation",
     "created": "2026-03-14T12:03:53Z",
     "archived": true
   },
@@ -310,7 +310,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Rolling Acres Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T23:37:07Z",
     "archived": true
   },
@@ -319,7 +319,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "OIR Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T23:00:33Z",
     "archived": true
   },
@@ -327,8 +327,8 @@
     "alertId": 12543,
     "title": "Device down",
     "severity": "Critical",
-    "device": "Able2-DR",
-    "customer": "Able2",
+    "device": "Fabrikam Inc-DR",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T23:00:33Z",
     "archived": true
   },
@@ -337,7 +337,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Rolling Acres Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T22:19:12Z",
     "archived": true
   },
@@ -346,7 +346,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Holley Rd Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T22:19:12Z",
     "archived": true
   },
@@ -355,7 +355,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "2nd Street Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T22:19:12Z",
     "archived": true
   },
@@ -364,7 +364,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Eastburn Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T08:04:53Z",
     "archived": true
   },
@@ -373,7 +373,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Eastburn Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T08:04:52Z",
     "archived": true
   },
@@ -382,7 +382,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Eastburn Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T07:07:00Z",
     "archived": true
   },
@@ -391,7 +391,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Eastburn Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T04:10:50Z",
     "archived": true
   },
@@ -400,7 +400,7 @@
     "title": "Device down",
     "severity": "Critical",
     "device": "Adara Firewall",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-12T04:10:50Z",
     "archived": true
   },
@@ -408,8 +408,8 @@
     "alertId": 12534,
     "title": "Device down",
     "severity": "Critical",
-    "device": "Able2-DR",
-    "customer": "Able2",
+    "device": "Fabrikam Inc-DR",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-11T13:25:40Z",
     "archived": true
   },
@@ -418,7 +418,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE-PRINTSERV2",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-10T22:29:50Z",
     "archived": true
   },
@@ -427,7 +427,7 @@
     "title": "Disk Usage(C:)",
     "severity": "Critical",
     "device": "ABL2-CED-MEDLAP",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-10T22:13:48Z",
     "archived": true
   },
@@ -436,7 +436,7 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "device": "ABLE-PRINTSERV2",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-10T21:59:49Z",
     "archived": true
   },
@@ -445,7 +445,7 @@
     "title": "Failed Login Attempts",
     "severity": "Information",
     "device": "ABL2-WL-KITCH2",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-10T16:45:42Z",
     "archived": true
   }

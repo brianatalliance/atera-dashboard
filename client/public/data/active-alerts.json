@@ -5,7 +5,7 @@
     "severity": "Critical",
     "category": "Availability",
     "device": "ABL2-OIR-TRAIN",
-    "customer": "Able2",
+    "customer": "Fabrikam Inc",
     "created": "2026-03-27T12:05:30Z",
     "message": "Machine status unknown - agent has not established communication within the expected interval."
   },
@@ -15,7 +15,7 @@
     "severity": "Information",
     "category": "General",
     "device": "AL-ACT-PAY",
-    "customer": "Alliance for Empowerment",
+    "customer": "Acme Corporation",
     "created": "2026-03-25T18:04:21Z",
     "message": "9 failed login attempts during a time period of 6.00 minutes"
   },
@@ -25,7 +25,7 @@
     "severity": "Information",
     "category": "General",
     "device": "AL-ACT-PUR",
-    "customer": "Alliance for Empowerment",
+    "customer": "Acme Corporation",
     "created": "2026-03-25T14:32:16Z",
     "message": "18 failed login attempts during a time period of 6.00 minutes"
   },
@@ -35,7 +35,7 @@
     "severity": "Information",
     "category": "General",
     "device": "AL-CHARLESRECEP",
-    "customer": "Alliance for Empowerment",
+    "customer": "Acme Corporation",
     "created": "2026-03-25T14:11:11Z",
     "message": "9 failed login attempts during a time period of 6.00 minutes"
   },
@@ -44,8 +44,8 @@
     "title": "Machine status unknown",
     "severity": "Critical",
     "category": "Availability",
-    "device": "AL-IT-LAB-ASUS1",
-    "customer": "IT-LAB",
+    "device": "AL-Northwind Traders-ASUS1",
+    "customer": "Northwind Traders",
     "created": "2026-03-24T22:09:40Z",
     "message": "Machine status unknown - agent has not established communication within the expected interval."
   }

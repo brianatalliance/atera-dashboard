@@ -12,10 +12,10 @@
     "totalCustomers": 5
   },
   "agentsByCustomer": {
-    "Capabilities INC": 35,
-    "Able2": 201,
-    "Alliance for Empowerment": 39,
-    "IT-LAB": 4
+    "Contoso Ltd": 35,
+    "Fabrikam Inc": 201,
+    "Acme Corporation": 39,
+    "Northwind Traders": 4
   },
   "agentsByOSType": {
     "Work Station": 271,
@@ -33,31 +33,31 @@
     "Linux-Debian GNU/Linux x64": 2
   },
   "onlineByCustomer": {
-    "Able2": {
+    "Fabrikam Inc": {
       "online": 81,
       "offline": 120,
       "total": 201
     },
-    "IT-LAB": {
+    "Northwind Traders": {
       "online": 2,
       "offline": 2,
       "total": 4
     },
-    "Alliance for Empowerment": {
+    "Acme Corporation": {
       "online": 15,
       "offline": 24,
       "total": 39
     },
-    "Capabilities INC": {
+    "Contoso Ltd": {
       "online": 2,
       "offline": 33,
       "total": 35
     }
   },
   "alertsByCustomer": {
-    "Able2": 1,
-    "Alliance for Empowerment": 3,
-    "IT-LAB": 1
+    "Fabrikam Inc": 1,
+    "Acme Corporation": 3,
+    "Northwind Traders": 1
   },
   "alertsBySeverity": {
     "Critical": 2,
@@ -96,9 +96,9 @@
     "Change": 9
   },
   "ticketsByCustomer": {
-    "Able2": 10401,
-    "Capabilities INC": 678,
-    "Alliance for Empowerment": 1305,
+    "Fabrikam Inc": 10401,
+    "Contoso Ltd": 678,
+    "Acme Corporation": 1305,
     "Unassigned": 294
   }
 }

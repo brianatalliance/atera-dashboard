@@ -160,12 +160,20 @@ atera-dashboard/
 - [wireguard-vpn-spk](https://github.com/brianatalliance/wireguard-vpn-spk) — WireGuard VPN Tunnel SPK for Synology DS220+ (userspace wireguard-go)
 - [nas-git-sync](https://github.com/brianatalliance/nas-git-sync) — Automated GitHub to Synology NAS repo sync script
 
+## Acknowledgments
+
+- [React](https://react.dev/) — UI component framework
+- [Vite](https://vitejs.dev/) — Frontend build tool and dev server
+- [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling
+- [Recharts](https://recharts.org/) — Chart library for KPI visualizations
+- [Atera RMM](https://www.atera.com/) — The RMM platform powering the data
+
 ## Author
 
-**Brian Vicente** — Network Coordinator & Cybersecurity Admin, [Alliance for Empowerment](https://www.allianceforempowerment.org)
+**Brian Vicente** — Network Coordinator & Cybersecurity Admin
 
-GitHub: [@brianatalliance](https://github.com/brianatalliance)
+Built with [Perplexity Computer](https://computer.perplexity.ai)
 
 ## License
 
-[MIT](LICENSE) — Alliance for Empowerment
+[MIT](LICENSE)
